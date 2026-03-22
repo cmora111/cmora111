@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, php, xLights, WLED, tvm, ML, AI, Lists - Grocery Walmart HomeDepot etc (Ny Isles)
 - 🌱 I’m currently learning all the above
 - 💞️ I’m looking to collaborate on ML, and AI
-- 📫 How to reach me mora@spectrix.com
+- 📫 How to reach me cmora111@protonmail.com
 
 <!---
 cmora111/cmora111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

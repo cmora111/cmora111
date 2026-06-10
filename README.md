@@ -278,4 +278,4 @@ Current Focus:
 ### Motto
 
 *"If it can be automated, optimized, repaired, fabricated, or built from scratch, I'm interested."*
-ZZ
+
